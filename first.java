@@ -1,3 +1,5 @@
+package Array;
+
 //linear search question in array
 import java.util.*;
 
